@@ -1,0 +1,22 @@
+[
+    {
+        "Nameofthehospital": "Dhanalakshmi Hospital",
+        "PatientCount": "100",
+        "Hospitallocation": "kannur"
+    },
+    {
+        "Nameofthehospital": "Lourde Hospital",
+        "PatientCount": "200",
+        "Hospitallocation": "Taliparamba"
+    },
+    {
+        "Nameofthehospital": "Aster Hospital",
+        "PatientCount": "900",
+        "Hospitallocation": "Payyavur"
+    },
+    {
+        "Nameofthehospital": "BKM Hospital",
+        "PatientCount": "700",
+        "Hospitallocation": "Payyannur"
+    }
+]
